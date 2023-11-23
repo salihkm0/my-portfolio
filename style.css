@@ -195,6 +195,19 @@ section.Hero .body-tail p{
     font-size: 18px;
     padding-right: 40px;
 }
+section.Hero .hero-btn{
+    margin: 40px 0;
+}
+section.Hero .hero-btn button{
+    padding: 8px 20px;
+    background: #ef233c;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
 /* -------------------- Introduction------------------------- */
 
 section.introduction{
