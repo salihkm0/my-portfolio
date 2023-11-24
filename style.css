@@ -36,10 +36,13 @@ header{
     backdrop-filter: blur(15px);
     z-index: 999;
 }
-.logo h1 a,.side-bar h1{
+/* .logo h1 a,.side-bar h1{
     font-size: 20px;
     color: #fff;
     cursor: pointer;
+} */
+.logo a img ,.side-bar a img{
+    width: 90px;
 }
 nav{
     width: 100%;
